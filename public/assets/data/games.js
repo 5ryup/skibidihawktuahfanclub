@@ -70,7 +70,7 @@ var games = [
   {
     id: 'tombofthemask',
     title: 'Tomb of the Mask',
-    url: 'https://tombofthe-mask.com/',
+    url: 'https://images-opensocial.googleusercontent.com/gadgets/ifr?url=https://cdn.jsdelivr.net/gh/sk1bx/element@9cccb2fafb569c963501a5d818472b561121cea6/totm.xml',
     image: 'https://play-lh.googleusercontent.com/gTd127I81O2i2Q6kfCJoN-M0OSWmgsdjB47orUFpLwANW7VZLJYrOxMVt-OpilDXszg=w240-h480-rw'
   },
   {
@@ -101,7 +101,7 @@ var games = [
   {
     id: 'ultimatechess',
     title: 'Ultimate Chess',
-    url: 'https://www.newgrounds.com/portal/view/535466',
+    url: 'https://images-opensocial.googleusercontent.com/gadgets/ifr?url=https://s3.amazonaws.com/production-assetsbucket-8ljvyr1xczmb/1ee20621-61bc-4ec8-a8ec-5e839c2e6edc%2Fultimate-chess.xml',
     image: 'https://img.kbhgames.com/2010/05/Ultimate-Chess.jpg'
   },
   {
@@ -114,7 +114,7 @@ var games = [
     id: 'shellshockers',
     title: 'Shell Shockers',
     description: 'Shell Shockers is unique online shooter in first-person perspective where all the characters are represented exclusively by eggs.',
-    url: 'https://shellshock.io/,
+    url: 'https://assets.3kh0.net/shellshockers/index.html',
     image: 'https://play-lh.googleusercontent.com/P-nde227L29s8w5U44kTPLiEnMEJUhJpEr4jL6tD6LV65Xz0JZtI4wEyFN-smsNrx-Q'
   },
   {
@@ -134,20 +134,20 @@ var games = [
     id: 'motox3m',
     title: 'MotoX3M',
     //url: 'https://assets.3kh0.net/motox3m/index.html',
-    url: 'https://moto-x3m.io/',
+    url: 'https://art-class.github.io/assets/motox3m',
     image: 'https://play-lh.googleusercontent.com/AbQMuT4ncBfWDqNF-4ubmfaRag59nrW3fJARDsHK51_PENScmWCnMFeQX81wfPlfGBo'
   },
   {
     id: 'thefinalearth',
     title: 'The Final Earth',
     description: 'Earth has been destroyed. It\'s a good thing you teleported to a new planet, also known as The Final Earth. Gather resources and build a colony',
-    url: 'https://flori9.itch.io/the-final-earth',
+    url: 'https://assets.3kh0.net/the-final-earth/index.html',
     image: 'https://img.itch.zone/aW1nLzIyMTU1NDAucG5n/original/6vGlZe.png'
   },
   {
     id: 'fnf',
     title: 'Friday Night Funkin',
-    url: 'https://www.fnfgo.com/fnf-full-week/',
+    url: 'https://assets.3kh0.net/fridaynightfunkin/index.html',
     image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Boyfriend-2.png/250px-Boyfriend-2.png'
   },
   {
