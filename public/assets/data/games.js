@@ -107,7 +107,7 @@ var games = [
   {
     id: 'jetpackjoyride',
     title: 'Jetpack Joyride',
-    url: 'https://assets.3kh0.net/jetpack-joyride/index.html',
+    url: 'https://poki.com/en/g/jetpack-joyride',
     image: 'https://play-lh.googleusercontent.com/Pl2nmu5U9CH3NQqLBTjnokoV325zESrX6KIaHrwSqREEJDWIv1yJpRCXzl9r3oMnEWHC',
   },
   {
@@ -147,7 +147,7 @@ var games = [
   {
     id: 'fnf',
     title: 'Friday Night Funkin',
-    url: 'https://assets.3kh0.net/fridaynightfunkin/index.html',
+    url: 'https://kbhgames.com/game/friday-night-funkin',
     image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Boyfriend-2.png/250px-Boyfriend-2.png'
   },
   {
@@ -159,7 +159,7 @@ var games = [
   {
     id: 'impossiblequiz',
     title: 'The Impossible Quiz',
-    url: 'https://proudparrot2.github.io/msg-archive/g_mes/impossiblequiz1/impossiblequiz1/index.html',
+    url: 'https://poki.com/en/g/the-impossible-quiz',
     image: 'https://ih1.redbubble.net/image.489460698.9522/st,small,507x507-pad,600x600,f8f8f8.jpg'
   },
   {
