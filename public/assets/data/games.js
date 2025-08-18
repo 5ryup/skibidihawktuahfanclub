@@ -134,14 +134,14 @@ var games = [
     id: 'motox3m',
     title: 'MotoX3M',
     //url: 'https://assets.3kh0.net/motox3m/index.html',
-    url: 'https://art-class.github.io/assets/motox3m',
+    url: 'https://www.coolmathgames.com/0-moto-x3m',
     image: 'https://play-lh.googleusercontent.com/AbQMuT4ncBfWDqNF-4ubmfaRag59nrW3fJARDsHK51_PENScmWCnMFeQX81wfPlfGBo'
   },
   {
     id: 'thefinalearth',
     title: 'The Final Earth',
     description: 'Earth has been destroyed. It\'s a good thing you teleported to a new planet, also known as The Final Earth. Gather resources and build a colony',
-    url: 'https://assets.3kh0.net/the-final-earth/index.html',
+    url: 'https://flori9.itch.io/the-final-earth',
     image: 'https://img.itch.zone/aW1nLzIyMTU1NDAucG5n/original/6vGlZe.png'
   },
   {
