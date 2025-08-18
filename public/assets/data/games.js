@@ -1,3 +1,4 @@
+
 var games = [
   {
     id: 'customgame',
@@ -223,7 +224,7 @@ var games = [
   {
     id: 'sm64',
     title: 'Super Mario 64',
-    url: 'https://augustberchelmann.com/mario/',
+    url: 'https://assets.3kh0.net/sm64/index.html',
     image: 'https://assets1.ignimgs.com/2019/05/31/mario-64---button-1559263987447.jpg',
     description: 'Controls: <br>Movement: Arrow Keys <br>A: X <br>B: C <br>R: Q <br>Z: Space <br>Start: Enter <br>C-stick: WASD<br><br>You might need to go into fullscreen for the keybinds to register'
   },
@@ -537,7 +538,7 @@ var games = [
   {
     id: 'raccoonretail',
     title: 'Raccoon Retail',
-    url: 'https://www.coolmathgames.com/0-raccoon-retail,
+    url: 'https://www.coolmathgames.com/0-raccoon-retail/play',
     image: 'https://play-lh.googleusercontent.com/zI8P-Gej0l8WK9_rRrVJuHQfZqA97ncD1RCN8qdLbmwl0uxPI8o5JLBsnJz5hxLKTYE'
   }
 ]
