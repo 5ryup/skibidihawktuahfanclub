@@ -537,7 +537,7 @@ var games = [
   {
     id: 'raccoonretail',
     title: 'Raccoon Retail',
-    url: 'https://www.coolmathgames.com/0-raccoon-retail,
+    url: 'https://www.coolmathgames.com/0-raccoon-retail',
     image: 'https://play-lh.googleusercontent.com/zI8P-Gej0l8WK9_rRrVJuHQfZqA97ncD1RCN8qdLbmwl0uxPI8o5JLBsnJz5hxLKTYE'
   }
 ]
