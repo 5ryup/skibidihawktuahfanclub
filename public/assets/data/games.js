@@ -14,7 +14,7 @@ var games = [
   {
     id: 'eggycar',
     title: 'Eggy Car',
-    url: 'https://eggy-car.github.io/',
+    url: 'https://toughlovearena.com/',
     image: 'https://assets.3kh0.net/eggycar/eggy-car.png'
   },
   {
